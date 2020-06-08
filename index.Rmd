@@ -143,7 +143,7 @@ Column {data-width=300}
 ----------------------------------
 ### Collected data as playlist (Study):
 
-<iframe src="https://open.spotify.com/embed/playlist/5xLSS4slREH7LE2llXT4Id" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
+<iframe src="https://open.spotify.com/embed/playlist/5xLSS4slREH7LE2llXT4Id" width="415" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>  
 
 ### What Are Audio Features?
 
@@ -214,12 +214,6 @@ Spotify uses various models and calculations, but also user input to construct i
 **Sample**
 
 Our sample consists of students. None of the participants’ study programme falls into the alpha faculty, hence we can merely analyse the differences between beta and gamma studies. Our sample consisted of 52 participants, with ages ranging from 19 to 26 years old.
-
-**Link to the survey and our data**
-
-
-
-
 
 
 Column {.tabset}
